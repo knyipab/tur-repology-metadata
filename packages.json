@@ -251,16 +251,16 @@
     "depends": [],
     "srcurl": "https://github.com/erincatto/Box2D/archive/v3.0.0.tar.gz",
     "maintainer": "@termux-user-repository",
-    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/c30abd4/tur/box2d",
-    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/c30abd4/tur/box2d/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/c30abd4/tur/box2d/build.sh",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/999310c/tur/box2d",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/999310c/tur/box2d/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/999310c/tur/box2d/build.sh",
     "package_patch_urls": [
-      "https://github.com/termux-user-repository/tur/blob/c30abd4/tur/box2d/0001-aligned_alloc.patch",
-      "https://github.com/termux-user-repository/tur/blob/c30abd4/tur/box2d/0002-unsupported-cpu.patch"
+      "https://github.com/termux-user-repository/tur/blob/999310c/tur/box2d/0001-aligned_alloc.patch",
+      "https://github.com/termux-user-repository/tur/blob/999310c/tur/box2d/0002-unsupported-cpu.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/termux-user-repository/tur/c30abd4/tur/box2d/0001-aligned_alloc.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/c30abd4/tur/box2d/0002-unsupported-cpu.patch"
+      "https://raw.githubusercontent.com/termux-user-repository/tur/999310c/tur/box2d/0001-aligned_alloc.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/999310c/tur/box2d/0002-unsupported-cpu.patch"
     ],
     "auto_updated": true
   },
@@ -392,30 +392,30 @@
     ],
     "srcurl": "https://downloads.sourceforge.net/clucene/clucene-core-2.3.3.4.tar.gz",
     "maintainer": "@termux-user-repository",
-    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/61fc4f9/tur/clucene",
-    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/build.sh",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/82d15b7/tur/clucene",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/build.sh",
     "package_patch_urls": [
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0001-clucene-core-2.3.3.4-install_contribs_lib.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0002-clucene-core-2.3.3.4-pkgconfig.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0003-fix_zlib_detections.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0004-Fix-missing-include-time.h.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0005-clucene-multimap-put.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0006-clucene-narrowing-conversions.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0007-clucene-debug.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0008-do-not-use-try-run.patch",
-      "https://github.com/termux-user-repository/tur/blob/61fc4f9/tur/clucene/0009-pthread_t.patch"
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0001-clucene-core-2.3.3.4-install_contribs_lib.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0002-clucene-core-2.3.3.4-pkgconfig.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0003-fix_zlib_detections.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0004-Fix-missing-include-time.h.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0005-clucene-multimap-put.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0006-clucene-narrowing-conversions.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0007-clucene-debug.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0008-do-not-use-try-run.patch",
+      "https://github.com/termux-user-repository/tur/blob/82d15b7/tur/clucene/0009-pthread_t.patch"
     ],
     "package_patch_raw_urls": [
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0001-clucene-core-2.3.3.4-install_contribs_lib.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0002-clucene-core-2.3.3.4-pkgconfig.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0003-fix_zlib_detections.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0004-Fix-missing-include-time.h.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0005-clucene-multimap-put.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0006-clucene-narrowing-conversions.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0007-clucene-debug.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0008-do-not-use-try-run.patch",
-      "https://raw.githubusercontent.com/termux-user-repository/tur/61fc4f9/tur/clucene/0009-pthread_t.patch"
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0001-clucene-core-2.3.3.4-install_contribs_lib.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0002-clucene-core-2.3.3.4-pkgconfig.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0003-fix_zlib_detections.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0004-Fix-missing-include-time.h.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0005-clucene-multimap-put.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0006-clucene-narrowing-conversions.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0007-clucene-debug.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0008-do-not-use-try-run.patch",
+      "https://raw.githubusercontent.com/termux-user-repository/tur/82d15b7/tur/clucene/0009-pthread_t.patch"
     ],
     "auto_updated": false
   },
