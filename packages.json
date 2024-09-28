@@ -1631,9 +1631,9 @@
     "depends": [],
     "srcurl": "https://github.com/yannjor/krabby/archive/refs/tags/v0.2.0.tar.gz",
     "maintainer": "@SunPodder",
-    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/f36c093/tur/krabby",
-    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/f36c093/tur/krabby/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/f36c093/tur/krabby/build.sh",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/1c07e06/tur/krabby",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/1c07e06/tur/krabby/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/1c07e06/tur/krabby/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
