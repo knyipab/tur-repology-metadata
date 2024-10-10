@@ -5788,6 +5788,27 @@
     "auto_updated": false
   },
   {
+    "name": "slowhttptest",
+    "version": "1.9.0",
+    "description": "Application Layer DoS attack simulator",
+    "homepage": "https://github.com/shekyan/slowhttptest",
+    "depends": [
+      "openssl"
+    ],
+    "srcurl": "https://github.com/shekyan/slowhttptest/archive/refs/tags/v1.9.0.tar.gz",
+    "maintainer": "github@1q23lyc45",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/0bca6bd/tur-hacking/slowhttptest",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/0bca6bd/tur-hacking/slowhttptest/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/0bca6bd/tur-hacking/slowhttptest/build.sh",
+    "package_patch_urls": [
+      "https://github.com/termux-user-repository/tur/blob/0bca6bd/tur-hacking/slowhttptest/1-configure-fix-prefix.patch"
+    ],
+    "package_patch_raw_urls": [
+      "https://raw.githubusercontent.com/termux-user-repository/tur/0bca6bd/tur-hacking/slowhttptest/1-configure-fix-prefix.patch"
+    ],
+    "auto_updated": false
+  },
+  {
     "name": "zaproxy",
     "version": "2.15.0",
     "description": "Integrated penetration testing tool for finding vulnerabilities in web applications",
