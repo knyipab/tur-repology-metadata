@@ -803,7 +803,7 @@
   },
   {
     "name": "dpp",
-    "version": "10.0.33",
+    "version": "10.0.34",
     "description": "D++ is a lightweight and simple library for Discord written in modern C++.",
     "homepage": "https://dpp.dev",
     "depends": [
@@ -813,11 +813,11 @@
       "openssl",
       "zlib"
     ],
-    "srcurl": "https://github.com/brainboxdotcc/dpp/archive/refs/tags/v10.0.33.tar.gz",
+    "srcurl": "https://github.com/brainboxdotcc/dpp/archive/refs/tags/v10.0.34.tar.gz",
     "maintainer": "@OrdinaryEnder",
-    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/ae1c3a7/tur/dpp",
-    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/ae1c3a7/tur/dpp/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/ae1c3a7/tur/dpp/build.sh",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/57a1223/tur/dpp",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/57a1223/tur/dpp/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/57a1223/tur/dpp/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
