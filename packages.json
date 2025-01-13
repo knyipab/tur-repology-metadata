@@ -5066,9 +5066,9 @@
     ],
     "srcurl": "git+https://github.com/TNTwise/rife-ncnn-vulkan",
     "maintainer": "@termux-user-repository",
-    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/3be5e63/tur/rife-ncnn-vulkan-tntwise",
-    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/3be5e63/tur/rife-ncnn-vulkan-tntwise/build.sh",
-    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/3be5e63/tur/rife-ncnn-vulkan-tntwise/build.sh",
+    "package_sources_url": "https://github.com/termux-user-repository/tur/tree/79227bc/tur/rife-ncnn-vulkan-tntwise",
+    "package_recipe_url": "https://github.com/termux-user-repository/tur/blob/79227bc/tur/rife-ncnn-vulkan-tntwise/build.sh",
+    "package_recipe_url_raw": "https://raw.githubusercontent.com/termux-user-repository/tur/79227bc/tur/rife-ncnn-vulkan-tntwise/build.sh",
     "package_patch_urls": [],
     "package_patch_raw_urls": [],
     "auto_updated": true
